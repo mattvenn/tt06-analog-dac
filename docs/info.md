@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+An R2R DAC generates an analog voltage on analog pin 0. 
+More information about R2R DAC: https://www.electronics-tutorials.ws/combination/r-2r-dac.html
 
 ## How to test
 
-Explain how to use your project
+Use input pins 0 to 3 to set the output analog voltage.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A multimeter to measure the voltage.
